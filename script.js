@@ -102,7 +102,8 @@ function renderTemporal(){
 
 //Renders header and table on Start Up
 makeTable()
-clearNewDay() 
+clearNewDay()
+storeToday() 
 renderToday()
 renderTemporal()
 
