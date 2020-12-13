@@ -1,0 +1,12 @@
+
+[temporal*="past"] {
+    background: red;
+  }
+
+[temporal*="present"] {
+    background: yellow;
+  }
+
+[temporal*="future"] {
+    background: green;
+  }
