@@ -31,7 +31,7 @@ function createTableRow(IDnumber){
   tableRow += '<td>'
   tableRow += IDnumber
   tableRow += '</td>'
-  tableRow += '<td>'
+  tableRow += '<td class="inputBoxCell">'
   tableRow += '<input type="text" class="activityInputBox" id="' + IDnumber + 'Input" value="">'
   tableRow += '</td>'
   tableRow += '<td>'
